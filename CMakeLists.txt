@@ -60,7 +60,7 @@ find_package(Eigen3 REQUIRED)
 find_package(PCL 1.7 REQUIRED)
 
 ## set OpenCV DIR
-find_package(OpenCV REQUIRED)                 # Image based localization
+find_package(OpenCV REQUIRED)
 
 message(Eigen: ${EIGEN3_INCLUDE_DIR})
 
