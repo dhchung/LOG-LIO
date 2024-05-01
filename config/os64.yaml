@@ -14,10 +14,10 @@ preprocess:
     blind: 1
 
 mapping:
-    acc_cov: 0.1
-    gyr_cov: 0.1
-    b_acc_cov: 0.0001
-    b_gyr_cov: 0.0001
+    acc_cov: 3.7686306102624571e-02
+    gyr_cov: 2.3417543020438883e-03
+    b_acc_cov: 1.1416642385952368e-03
+    b_gyr_cov: 1.4428407712885209e-05
     fov_degree:    180
     det_range:     100.0
     extrinsic_est_en:  false      # true: enable the online estimation of IMU-LiDAR extrinsic,

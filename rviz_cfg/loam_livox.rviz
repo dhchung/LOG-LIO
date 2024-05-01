@@ -8,7 +8,6 @@ Panels:
         - /Status1
         - /PointCloud21
         - /PointCloud22
-        - /Odometry1
       Splitter Ratio: 0.5
     Tree Height: 1039
   - Class: rviz/Selection
@@ -152,7 +151,7 @@ Visualization Manager:
           Value: true
         Value: true
       Enabled: true
-      Keep: 0
+      Keep: 1
       Name: Odometry
       Position Tolerance: 0.10000000149011612
       Queue Size: 10
@@ -197,7 +196,7 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/Orbit
-      Distance: 38.95975875854492
+      Distance: 53.02678680419922
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.05999999865889549
         Stereo Focal Distance: 1
@@ -213,9 +212,9 @@ Visualization Manager:
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Pitch: 0.7203985452651978
+      Pitch: 0.44479691982269287
       Target Frame: body
-      Yaw: 2.4654014110565186
+      Yaw: 0.8922576904296875
     Saved: ~
 Window Geometry:
   Displays:
