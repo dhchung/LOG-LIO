@@ -7,7 +7,6 @@ Panels:
         - /Global Options1
         - /Status1
         - /PointCloud21
-        - /PointCloud21/Status1
         - /PointCloud22
         - /Odometry1
       Splitter Ratio: 0.5
@@ -198,7 +197,7 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/Orbit
-      Distance: 19.018680572509766
+      Distance: 38.95975875854492
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.05999999865889549
         Stereo Focal Distance: 1
@@ -206,17 +205,17 @@ Visualization Manager:
         Value: false
       Field of View: 0.7853981852531433
       Focal Point:
-        X: 32.21341323852539
-        Y: -25.871009826660156
-        Z: -2.8135786056518555
-      Focal Shape Fixed Size: true
+        X: -0.00214577023871243
+        Y: 0.04869527369737625
+        Z: -0.047026511281728745
+      Focal Shape Fixed Size: false
       Focal Shape Size: 0.05000000074505806
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Pitch: 1.4347964525222778
-      Target Frame: <Fixed Frame>
-      Yaw: 4.995427131652832
+      Pitch: 0.7203985452651978
+      Target Frame: body
+      Yaw: 2.4654014110565186
     Saved: ~
 Window Geometry:
   Displays:
