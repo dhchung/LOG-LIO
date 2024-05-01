@@ -2,7 +2,7 @@
 #include <pcl_conversions/pcl_conversions.h>
 #include <sensor_msgs/PointCloud2.h>
 //#include <livox_ros_driver/CustomMsg.h>
-#include "ring_fals//range_image.h"
+#include "ring_fals/range_image.h"
 #include <point_type.h>
 
 using namespace std;
